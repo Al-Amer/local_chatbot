@@ -36,9 +36,11 @@ export async function POST(req: NextRequest) {
             prompt: question,
             stream: false
             })
-  });
+    });
 
-  const data = await response.json();
+    const data = await response.json();
 
-  return NextResponse.json({ answer: data.response });
+    return NextResponse.json({ answer: data.response });
 }
+
+// local Ollama Api 
