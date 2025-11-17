@@ -42,6 +42,26 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+UI 
+<img width="1103" height="1003" alt="Screenshot 2025-11-17 at 01 32 26" src="https://github.com/user-attachments/assets/8388693e-1acd-4bfb-bef3-401620000794" />
+
+swegger UI 
+<img width="754" height="641" alt="Screenshot 2025-11-17 at 01 32 32" src="https://github.com/user-attachments/assets/167dcfa2-8341-4550-820c-4b04e87b6f5b" />
+
+terminal ::
+<img width="529" height="62" alt="Screenshot 2025-11-17 at 01 33 59" src="https://github.com/user-attachments/assets/77252b02-9d15-4d0f-80e0-82d72ce9e126" />
+
+web run video :: 
+https://github.com/user-attachments/assets/ee85a78d-0d16-4499-b6c1-831430efda2d
+
+
+https://github.com/user-attachments/assets/498de250-d612-4c5c-a81a-00e1efab7fb5
+
+
+
+
+
+
 
 
 
